@@ -1,6 +1,6 @@
 👋 Hi, I’m @hex5e
 
-👀 I’m interested in Python, Snowflake, and systems built in Azure
+👀 I’m interested in vibe coding the next unicorn
 
 🌱 I’m currently learning web development
 
